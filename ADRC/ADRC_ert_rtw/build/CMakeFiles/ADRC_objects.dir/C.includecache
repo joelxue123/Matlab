@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/work/study/matlab+simulink/ADRC/ADRC_ert_rtw/ADRC.c
+ADRC.h
+C:/work/study/matlab+simulink/ADRC/ADRC_ert_rtw/ADRC.h
+rtwtypes.h
+C:/work/study/matlab+simulink/ADRC/ADRC_ert_rtw/rtwtypes.h
+
+C:/work/study/matlab+simulink/ADRC/ADRC_ert_rtw/ADRC.h
+rtwtypes.h
+C:/work/study/matlab+simulink/ADRC/ADRC_ert_rtw/rtwtypes.h
+ADRC_types.h
+C:/work/study/matlab+simulink/ADRC/ADRC_ert_rtw/ADRC_types.h
+
+C:/work/study/matlab+simulink/ADRC/ADRC_ert_rtw/ADRC_types.h
+
+C:/work/study/matlab+simulink/ADRC/ADRC_ert_rtw/rtwtypes.h
+
