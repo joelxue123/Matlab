@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5a1ec2ae0982341a14c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pll",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "pll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pll-Debug-3f64897be0039ef2d833.json",
+					"name" : "pll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pll_objects::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pll_objects-Debug-ac1b10b68514f5f2580a.json",
+					"name" : "pll_objects",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/build",
+		"source" : "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

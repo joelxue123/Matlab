@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/build",
+  "command": "C:/MinGW/bin/gcc.exe -DALLOCATIONFCN=0 -DCLASSIC_INTERFACE=0 -DHAVESTDIO -DINTEGER_CODE=0 -DMAT_FILE=0 -DMODEL=pll -DMODEL_HAS_DYNAMICALLY_LOADED_SFCNS=0 -DMT=0 -DMULTI_INSTANCE_CODE=1 -DNCSTATES=0 -DNUMST=1 -DONESTEPFCN=1 -DTERMFCN=1 -DTID01EQ=0 @CMakeFiles/pll_objects.dir/includes_C.rsp -g -o CMakeFiles/pll_objects.dir/pll.c.obj -c C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/pll.c",
+  "file": "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/pll.c",
+  "output": "CMakeFiles/pll_objects.dir/pll.c.obj"
+},
+{
+  "directory": "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/build",
+  "command": "C:/MinGW/bin/gcc.exe -DALLOCATIONFCN=0 -DCLASSIC_INTERFACE=0 -DHAVESTDIO -DINTEGER_CODE=0 -DMAT_FILE=0 -DMODEL=pll -DMODEL_HAS_DYNAMICALLY_LOADED_SFCNS=0 -DMT=0 -DMULTI_INSTANCE_CODE=1 -DNCSTATES=0 -DNUMST=1 -DONESTEPFCN=1 -DTERMFCN=1 -DTID01EQ=0 @CMakeFiles/pll_objects.dir/includes_C.rsp -g -o CMakeFiles/pll_objects.dir/pll_capi.c.obj -c C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/pll_capi.c",
+  "file": "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/pll_capi.c",
+  "output": "CMakeFiles/pll_objects.dir/pll_capi.c.obj"
+},
+{
+  "directory": "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/build",
+  "command": "C:/MinGW/bin/gcc.exe -DALLOCATIONFCN=0 -DCLASSIC_INTERFACE=0 -DHAVESTDIO -DINTEGER_CODE=0 -DMAT_FILE=0 -DMODEL=pll -DMODEL_HAS_DYNAMICALLY_LOADED_SFCNS=0 -DMT=0 -DMULTI_INSTANCE_CODE=1 -DNCSTATES=0 -DNUMST=1 -DONESTEPFCN=1 -DTERMFCN=1 -DTID01EQ=0 @CMakeFiles/pll.dir/includes_C.rsp -g -o CMakeFiles/pll.dir/ert_main.c.obj -c C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/ert_main.c",
+  "file": "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw/ert_main.c",
+  "output": "CMakeFiles/pll.dir/ert_main.c.obj"
+}
+]

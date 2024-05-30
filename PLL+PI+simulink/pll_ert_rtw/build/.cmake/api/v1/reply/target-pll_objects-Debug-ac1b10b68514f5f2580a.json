@@ -1,0 +1,211 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "CMakeFiles/pll_objects.dir/pll.c.obj"
+		},
+		{
+			"path" : "CMakeFiles/pll_objects.dir/pll_capi.c.obj"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"target_compile_definitions",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 132,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 36,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 52,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 3,
+					"define" : "ALLOCATIONFCN=0"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "CLASSIC_INTERFACE=0"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "HAVESTDIO"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "INTEGER_CODE=0"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "MAT_FILE=0"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "MODEL=pll"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "MODEL_HAS_DYNAMICALLY_LOADED_SFCNS=0"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "MT=0"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "MULTI_INSTANCE_CODE=1"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "NCSTATES=0"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "NUMST=1"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "ONESTEPFCN=1"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "TERMFCN=1"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "TID01EQ=0"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "C:/work/study/matlab+simulink/PLL+PI+simulink"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/work/study/matlab+simulink/PLL+PI+simulink/pll_ert_rtw"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Program Files/MATLAB/R2022b/extern/include"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Program Files/MATLAB/R2022b/simulink/include"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Program Files/MATLAB/R2022b/rtw/c/src"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Program Files/MATLAB/R2022b/rtw/c/src/ext_mode/common"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "C:/Program Files/MATLAB/R2022b/rtw/c/ert"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"id" : "pll_objects::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "pll_ert_rtw"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "C:/Program Files (x86)/pll"
+		}
+	},
+	"name" : "pll_objects",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "pll.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "pll_capi.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}
